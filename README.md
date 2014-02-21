@@ -1,4 +1,4 @@
-support
+Support
 =======
 
-Handling user support and feedback that is not (yet) a specific issue for a specific platform.
+Handling user support and feedback. We will collect all user questions and feedback in [Issues](https://github.com/hoccer/support/issues).
